@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "965251192205",
+    "firebase_url": "https://goperchui-9debc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "goperchui-9debc",
+    "storage_bucket": "goperchui-9debc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965251192205:android:a5663e5da4d4fddb6359c4",
+        "android_client_info": {
+          "package_name": "com.gooperch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRVvRL8EW-F63f4jsF_lqifO9kp0-4p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
